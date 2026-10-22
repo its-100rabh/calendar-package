@@ -47,5 +47,16 @@
     "react-native": "0.86.3",
     "rimraf": "^6.0.1",
     "typescript": "^5.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-100rabh/calendar-package.git"
+  },
+  "homepage": "https://github.com/its-100rabh/calendar-package#readme",
+  "bugs": {
+    "url": "https://github.com/its-100rabh/calendar-package/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
