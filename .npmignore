@@ -1,0 +1,8 @@
+src/__tests__/
+example/
+*.tgz
+tsconfig.json
+tsconfig.build.json
+.gitignore
+.npmignore
+*.log
